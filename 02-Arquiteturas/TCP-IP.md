@@ -28,6 +28,7 @@ O padrão TCP/IP tornou-se dominante, enquanto o OSI passou a ser usado principa
 ## Estrutura da Arquitetura TCP/IP  
 
 Diferente do OSI, possui **4 camadas**:
+
 ![Figura 2](/02-Arquiteturas/figura2.png)
 
 ### 1. Camada de Enlace(Interface de Rede)
