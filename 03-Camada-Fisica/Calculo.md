@@ -15,9 +15,9 @@ Rb​ = Rs ​⋅ n
 ## 2. Bits por sinal
 É quantos bits cada sinal carrega.
 
-```
+
 n = log<sub>2</sub>(M)
-```
+
 
 ### Onde:
 * **n** = bits por símbolo
@@ -51,9 +51,9 @@ Se um sistema tem:
 * M = 8 níveis
 
 Então:
-```
+
 n = log<sub>2</sub>(8) = 3 bits por segundo  ​
-```
+
 
 Se:
 * Rs = 1000 baud
