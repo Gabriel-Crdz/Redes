@@ -7,9 +7,9 @@ Inicialmente, fabricantes criavam soluções próprias, gerando incompatibilidad
 
 ---
 
-# Arquitetura TCP/IP
+## Arquitetura TCP/IP
 
-## Histórico  
+### Histórico  
 Durante a Guerra Fria, o Departamento de Defesa dos EUA solicitou à **DARPA**(Defense Advanced Research Project
 Agency, ou agência de projetos de pesquisa avançados de defesa) o desenvolvimento de uma rede robusta, capaz de continuar operando mesmo com falhas em nós intermediários.
 
@@ -29,7 +29,7 @@ O padrão TCP/IP tornou-se dominante, enquanto o OSI passou a ser usado principa
 
 Diferente do OSI, possui **4 camadas**:
 
-![Figura 2](/02-Arquiteturas/figura2.png)
+![Arquitetura TCP/IP](/02-Arquiteturas/img/figura2.png)
 
 ### 1. Camada de Enlace(Interface de Rede)
 Interface com tecnologias de rede existentes.  
@@ -58,11 +58,11 @@ Os protocolos são fornecidos pelos programas que usam o TCP/IP para comunicaç�
 Cada aplicação pode fazer uso de um ou mais protocolos, e cada
 protocolo pode ser específico de uma aplicação ou ser usado por várias aplicações.
 
-![FIgura 3](/02-Arquiteturas/figura3.png)
+![Protocolos](/02-Arquiteturas/img/figura3.png)
 
 ---
 
-# Conclusão  
+## Conclusão  
 
 - O **Modelo OSI** é um padrão conceitual de 7 camadas, usado principalmente para estudo.  
 - A **Arquitetura TCP/IP** é mais simples e prática, sendo o padrão real da Internet.  

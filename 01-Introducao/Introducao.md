@@ -66,14 +66,15 @@ Classificação conforme a área de cobertura:
 Organização das conexões físicas e lógicas da rede:  
 
 1. **Barramento:** todos os dispositivos conectados a um único cabo. Simples, mas permite apenas uma transmissão por vez.  
-![Figura 1](/01-Introducao/figura1.png)
-![Figura 2](/01-Introducao/figura2.png)
+![Barramento 1](/01-Introducao/img/figura1.png)
+![Barramento 2](/01-Introducao/img/figura2.png)
 
 2. **Anel:** dispositivos conectados em círculo. Se houver rompimento, a rede pode parar.  
-![Figura 3](/01-Introducao/figura3.png)
+![Anel](/01-Introducao/img/figura3.png)
 
 3. **Estrela:** todos conectados a um equipamento central. Muito usada atualmente. Se o equipamento central falhar, a rede para; se um computador falhar, os demais continuam funcionando.  
-![Figura 4](/01-Introducao/figura4.png)
+![Estrela](/01-Introducao/img/figura4.png)
+
 ---
 
 ### 3.4 Sentido  

@@ -7,18 +7,18 @@ Inicialmente, fabricantes criavam soluções próprias, gerando incompatibilidad
 
 ---
 
-# Modelo de Referência OSI da ISO (RM-OSI)
+## Modelo de Referência OSI da ISO (RM-OSI)
 
-## Histórico  
+### Histórico  
 Criado pela ISO – International Stantardization Organization (ou Organização
 Internacional de Padronização), o **Modelo OSI (Open Systems Interconnection)** ou
 Modelo de Referência – Interconexão de Sistemas Abertos, surgiu como uma proposta padronizada para interconexão de sistemas.
 
-## Objetivo  
+### Objetivo  
 Definir um padrão confiável e seguro para conectar redes de qualquer porte, permitindo recuperação de falhas e proteção de dados.  
 O modelo foi estruturado em **7 camadas**, cada uma com funções específicas e independentes.
 
-## Funcionamento Geral  
+### Funcionamento Geral  
 - Cada camada presta serviços à camada superior.  
 - A comunicação ocorre por meio de **interfaces**.  
 - Cada camada adiciona informações de controle (cabeçalhos).  
@@ -29,7 +29,7 @@ O modelo foi estruturado em **7 camadas**, cada uma com funções específicas e
 
 ## As 7 Camadas do Modelo OSI
 
-![Figura 1](/02-Arquiteturas/figura1.png)
+![Modelo OSI](/02-Arquiteturas/img/figura1.png)
 
 ### 1. Camada Física  
 Responsável pela transmissão de bits no meio físico.  
