@@ -3,9 +3,7 @@
 ## 1. Taxa de bits(Bit Rate)
 É a quantidade de bits transmitidos por segundo.
 
-```
 Rb​ = Rs ​⋅ n
-```
 
 ### Onde:
 * **Rb** = taxa de bits (bits/s)
@@ -15,9 +13,7 @@ Rb​ = Rs ​⋅ n
 ## 2. Bits por sinal
 É quantos bits cada sinal carrega.
 
-
 n = log<sub>2</sub>(M)
-
 
 ### Onde:
 * **n** = bits por símbolo
@@ -26,9 +22,8 @@ n = log<sub>2</sub>(M)
 ## 3. Número de niveis por sinal
 Quantidade de estados diferentes que o sinal pode assumir.
 
-```
 M = 2^n
-```
+
 ### Onde:
 * **M** = niveis do sinal
 * **n** = bits por sinal
@@ -36,9 +31,7 @@ M = 2^n
 ## 4. Taxa de sinal(Baud Rate)
 É quantos sinais são transmitidos por segundo.
 
-```
 Rs​ = $\frac{Rb}{n}$
-```
 
 ## Onde:
 * **Rs** = taxa de sinal
@@ -52,8 +45,7 @@ Se um sistema tem:
 
 Então:
 
-n = log<sub>2</sub>(8) = 3 bits por segundo  ​
-
+* n = log<sub>2</sub>(8) = 3 bits por segundo  ​
 
 Se:
 * Rs = 1000 baud
