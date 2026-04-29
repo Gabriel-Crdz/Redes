@@ -16,7 +16,7 @@ ou em decimal, como 255.255.255.0.
 
 Quanto mais bits forem usados para o NetID, maior será o número de redes possíveis e menor será a quantidade de hosts por rede.
 
-![redes e hosts](/09-Protocolo-IP/figura1.png)
+![redes e hosts](/09-Protocolo-IP/img/figura1.png)
 
 Inicialmente, o IPv4 utilizava classes de endereçamento:
 
