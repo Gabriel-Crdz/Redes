@@ -18,6 +18,7 @@ cd lab1.2
 
 * Dentro da pasta lab1.2, crie os seguintes arquivos e pastas:
 
+```
 lab1.2/
 ├── lab.conf
 ├── pc1.startup
@@ -28,6 +29,7 @@ lab1.2/
 ├── pc2/
 ├── pc3/
 └── r1/
+```
 
 ## Conteudo de cada arquivo:
 
